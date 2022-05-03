@@ -1,0 +1,15 @@
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\bin\Debug\The Project.exe.config
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\bin\Debug\The Project.exe
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\bin\Debug\The Project.pdb
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\bin\Debug\The Project.xml
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\obj\Debug\The Project.vbprojResolveAssemblyReference.cache
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\obj\Debug\WindowsApplication1.Form1.resources
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\obj\Debug\WindowsApplication1.Resources.resources
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\obj\Debug\The Project.vbproj.GenerateResource.Cache
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\obj\Debug\The Project.exe
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\obj\Debug\The Project.xml
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\obj\Debug\The Project.pdb
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\obj\Debug\WindowsApplication1.Battle_Form.resources
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\obj\Debug\WindowsApplication1.Shop.resources
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\obj\Debug\WindowsApplication1.Form2.resources
+H:\0.m256\0.Visual Basi.c\Projects in Progress\The Project\The Project\obj\Debug\WindowsApplication1.boss.resources
